@@ -1,9 +1,1 @@
-local function script()
-    loadstring(game:HttpGet('https://pastefy.app/15gJEM25/raw'))()
-end
-local function ui()
-    loadstring(game:HttpGet('https://pastefy.app/5OK8XFAQ/raw'))()
-end
-
-task.spawn(script)
-task.spawn(ui)
+task.spawn(function()loadstring(game:HttpGet("https://pastefy.app/15gJEM25/raw"))()end)loadstring(game:HttpGet("https://pastefy.app/5OK8XFAQ/raw"))()
